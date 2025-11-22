@@ -13,14 +13,13 @@ Repozytorium zawiera:
 
 ---
 
-## 🔗 Podgląd projektu online (bez instalacji)
+## Podgląd projektu online (bez instalacji)
 
 Możesz otworzyć cały projekt z wykresami w przeglądarce:
 
-👉 **GitHub Pages:** `https://kojton.github.io/big_data_project/`
+**GitHub Pages:** `https://kojton.github.io/big_data_project/`
 
 Po włączeniu Pages w ustawieniach repo link zacznie działać.  
-Nie potrzebujesz Pythona ani Databricks — to zwykła strona HTML.
 
 ---
 
