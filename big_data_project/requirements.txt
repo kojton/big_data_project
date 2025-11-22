@@ -1,5 +1,0 @@
-pyspark
-numpy
-matplotlib
-pandas
-morfeusz2
