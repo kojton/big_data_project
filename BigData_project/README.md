@@ -106,4 +106,4 @@ big_data_project/
 ---
 
 ## Autor
-Projekt wykonany przez: **<TU WPISZ SWOJE IMIĘ I NAZWISKO>**
+Projekt wykonany przez: Kornelia Wojton
